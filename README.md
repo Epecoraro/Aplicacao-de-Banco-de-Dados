@@ -1,2 +1,2 @@
 # MySQL
-Scripts de SQL
+Scripts de SQL desenvolvidos no MySQL Workbench
