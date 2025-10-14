@@ -1,2 +1,2 @@
-# SQL
+# MySQL
 Scripts de SQL
